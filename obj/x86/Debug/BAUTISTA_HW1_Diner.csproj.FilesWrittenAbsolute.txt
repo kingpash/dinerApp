@@ -1,0 +1,15 @@
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.gtk-gui.gui.stetic
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/bin/Debug/BAUTISTA_HW1_Diner.exe.mdb
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/bin/Debug/BAUTISTA_HW1_Diner.exe
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.exe
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.exe.mdb
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.TC843030398-5-330-400-5-1-ChildTemplate.png
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.Blackvariant-Button-Ui-Ms-Office-2016-Excel-2.icns
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.small_square_picture.jpg
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.small_square_picture-2.jpg
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.sacramento-6th-annual-food-film-festiv-38.jpeg
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.soup.jpg
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.fish.jpg
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.dinerName.png
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/BAUTISTA_HW1_Diner/BAUTISTA_HW1_Diner/obj/x86/Debug/BAUTISTA_HW1_Diner.special.jpeg
